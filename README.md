@@ -1,5 +1,9 @@
 ## second creation of bloccit  to teach the fundamentals of web dev and rails .
 
+## adding new test line to help understand git issue as  git remote add "orgin"
+
+noted was already in use 
+
 
 
 
